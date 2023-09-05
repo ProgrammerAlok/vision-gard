@@ -4,6 +4,7 @@
   height: 80%;
   top: 5.5rem;
   left: 4rem;
+  overflow: inherit !important;
 }
 
 .leaflet-container {
