@@ -1,0 +1,41 @@
+.layout-container {
+    position: relative;  
+    background: #390c20;
+    height: 100vh;
+}
+
+.layout-container-box1 {
+  position: absolute;
+  width: 600.82px;
+  height: 2300.45px;
+  left: 210px;
+  top: -1300px;
+  transform: rotate(22.12deg);
+  background: #ec5574;
+  box-shadow: -4px 87px 23px 30px rgba(0, 0, 0, 0.5);
+  border-radius: 11px;
+  z-index: 00;
+}
+
+.layout-container-box2 {
+  position: absolute;
+  width: 600.82px;
+  height: 2300.45px;
+  left: 110.08px;
+  top: -1300px;
+  background: #e60771;
+  box-shadow: -4px 87px 23px 30px rgba(0, 0, 0, 0.42);
+  border-radius: 11px;
+  transform: rotate(22.12deg);
+}
+
+.layout-container-box3 {
+  position: absolute;
+  width: 600.82px;
+  height: 2300.45px;
+  top: -1300px;
+  background: linear-gradient(188.61deg, #cf036b 22.99%, #7f0e2c 75.62%), #bc0707;
+  box-shadow: -4px 87px 23px 30px rgba(0, 0, 0, 0.42);
+  border-radius: 11px;
+  transform: rotate(22.12deg);
+}

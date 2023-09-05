@@ -1,0 +1,42 @@
+.navbar-container {
+  color: #fff;
+  position: absolute;
+  /* border: 2px solid #fff; */
+  width: 100%;
+}
+
+.navBox {
+  width: 90%;
+  background: rgba(5, 0, 0, 0.55);
+  margin: 0 auto;
+  margin-top: 1rem;
+  border-radius: 2rem;
+}
+
+li {
+  list-style: none;
+  float: left;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+}
+
+.logo {
+  height: 3rem;
+  margin-top: 0.3rem;
+}
+
+.text {
+  margin-left: 20px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 61px;
+
+  color: #ffffff;
+}

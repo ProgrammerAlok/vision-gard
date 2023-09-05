@@ -1,0 +1,12 @@
+.quotes-container {
+  position: absolute;
+  color: #fff;
+  font-size: 2.3rem;
+  width: 17rem;
+  top: 14rem;
+  left: 4rem;
+
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+}
