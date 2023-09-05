@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Signin from "./components/Signin/Signin";
 import Quotes from "./components/Quotes/Quotes";
 import Register from "./components/Register/Register";
+import Map from "./components/Map/Map";
 
 function App() {
   useEffect(() => {
@@ -75,6 +76,7 @@ function App() {
               <>
                 <Layout>
                   <Navbar />
+                  <Map />
                 </Layout>
               </>
             }
