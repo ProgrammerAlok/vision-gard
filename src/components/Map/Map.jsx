@@ -13,7 +13,7 @@ const Map = () => {
 
   useEffect(() => {
     downloadData()
-  }, [])
+  }, [center])
 
   const downloadData = async () => {
     try {
